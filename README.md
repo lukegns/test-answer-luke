@@ -2,7 +2,7 @@
 
 ## Testing Tool Used
 
-Cypress
+cypress
 
 ## Dependencies Installation
 
@@ -23,10 +23,11 @@ yarn add cypress --dev
 ```bash
 npx cypress open
 ```
+-   use testing.luke.cy.js as the spec
 
 ## Credentials
 
-Credentials are stored in cypress.env.json
+credentials are stored in cypress.env.json
 
 ## Test Results
 
